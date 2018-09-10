@@ -1,0 +1,27 @@
+[
+  {
+    "name": "John Doe",
+    "age": "21",
+    "location": "San Fransisco"
+  },
+  {
+    "name": "Jake Miller",
+    "age": "45",
+    "location": "California"
+  },
+  {
+    "name": "Houston Aneer",
+    "age": "58",
+    "location": "Liverpool"
+  },
+  {
+    "name": "Adam Hunt",
+    "age": "75",
+    "location": "Surat"
+  },
+  {
+    "name": "Oliver Queen",
+    "age": "25",
+    "location": "Star City"
+  }
+]
